@@ -15,7 +15,7 @@
 	<key>AnimateDimming</key>
 	<false/>
 	<key>AutoCommandHistory</key>
-	<true/>
+	<false/>
 	<key>AutoHideTmuxClientSession</key>
 	<false/>
 	<key>BracketedPasteMode</key>
